@@ -1,60 +1,51 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/talha4111/talha4111/main/assets/header.gif" width="100%" alt="Header banner" onerror="this.src='https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Merhaba,%20Ben%20Talha!%20%F0%9F%91%8B&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20AI%20&%20Quant%20Trading%20Enthusiast&descAlignY=55&descAlign=50'"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=230&section=header&text=Talha%20G%C3%BCrler&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20%7C%20AI%2FML%20%E2%80%A2%20Quantitative%20FinTech%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 </div>
 
-<h3 align="center">Yapay Zeka Destekli Sistemler Geliştiren Bir Yazılım Geliştirici</h3>
-
 <p align="center">
-  Python, Makine Öğrenmesi, Algoritmik Finans ve Modern Web Teknolojileri üzerine çalışıyorum. Karmaşık problemleri veri odaklı yaklaşımlar ve AI ile çözmek benim tutkum.
+  <b>Kocaeli Üniversitesi Bilgisayar Mühendisliği</b> öğrencisiyim. <b>Yapay Zeka & Makine Öğrenmesi (Multimodal RAG, Computer Vision, Zaman Serileri)</b>, <b>Kantitatif Finans & Algoritmik Sistemler</b> ve <b>Modern Web/Mobil Uygulama Mimarileri (Python, TypeScript, React, Java, C)</b> üzerine uçtan uca üretim seviyesinde projeler geliştiriyorum.
 </p>
 
 <div align="center">
+  <a href="https://talha4111.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolyo_Web_Sitem-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" />
+  </a>
+  <a href="mailto:talhagurler11@gmail.com">
+    <img src="https://img.shields.io/badge/E--Posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://linkedin.com/in/talhagurler" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:iletisim@talhagurler.com">
-    <img src="https://img.shields.io/badge/-E_Posta-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://talha4111.github.io/portfolio">
-    <img src="https://img.shields.io/badge/-Portfolyo_Sitem-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
-<br />
-
-### 🛠️ Teknolojiler & Araçlar
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,tailwind,nodejs,flask,django" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,pandas,mysql,postgres,sqlite,git,github,aws" />
-</p>
-
-<table align="center" style="width: 100%; text-align: left;">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📈 Odak Projem</h3>
-      <b><a href="https://github.com/talha4111/StockPredictionPro">🚀 StockPredictionPro</a></b><br/>
-      Kripto ve hisse senetleri için geliştirdiğim yapay zeka destekli otonom trading sistemi. Scikit-learn, Keras modelleri ve LLM (Büyük Dil Modelleri) analistlerini birleştirerek piyasayı okur ve karar alır.
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 GitHub İstatistikleri</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=talha4111&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="Talha's GitHub Stats" />
-    </td>
-  </tr>
-</table>
-
-### 🌱 Neler Yapıyorum?
-- 🔭 Şu an **Yapay Zeka Destekli Finansal Botlar** (Quant Trading) üzerinde geliştirmeler yapıyorum.
-- 🎓 **Veri Bilimi ve Makine Öğrenmesi** konularında sürekli yeni algoritmalar öğreniyorum.
-- 💬 Bana **Python, Finansal Teknolojiler (FinTech), AI Entegrasyonları ve Web Geliştirme** hakkında her şeyi sorabilirsiniz.
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talha4111&theme=radium&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+### 🛠️ Teknoloji Yığını & Mühendislik Araçları
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,c,java,react,vite,tailwind,flask,html,css" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,sqlite,postgres,androidstudio,git,github,githubactions,linux" />
+</p>
+
+---
+
+### 🚀 Öne Çıkan Mühendislik Projelerim
+
+| Proje | Alan & Mimari | Temel Teknolojiler |
+| :--- | :--- | :--- |
+| 📈 **[StockPredictionPro](https://github.com/talha4111/StockPredictionPro)** | **4-Sütunlu Kantitatif Faktör Motoru (v3.1), Triple-Barrier AI & 10 Sayfalık FinTech Platformu**<br/>Point-in-Time SEC EDGAR verileriyle 100+ ABD hissesini puanlayan, QuantConnect doğrulama hattı, 2.837 OOS olayda kalibre edilmiş Triple-Barrier ($\pm 1.8\text{ ATR}$) AI tahmincisi, FIFO portföy stres testi ve PBKDF2 + TOTP 2FA + WAF siber güvenlik zırhı barındıran platform. | `Python` `Streamlit` `XGBoost` `Scikit-Learn` `QuantConnect` `SEC EDGAR` `SQLite` `2FA/WAF` |
+| 🥗 **[Makro Takip (sporproje)](https://github.com/talha4111/sporproje)** | **AI Vision Sporcu Beslenme, Makro Açığı Çözücü & Offline-First PWA / Android Uygulaması**<br/>Tabak fotoğrafından Gemini 2.5 Flash Vision ile porsiyon gramajı tahmin eden, deterministik matematiksel makro açığı çözücü (`solveMacroGap`), Open Food Facts barkod sağlık radarı (NOVA/Nutri-Score) ve IndexedDB yerel veritabanı içeren mobil uygulama. | `React 19` `TypeScript` `Tailwind 4` `Gemini Vision` `Dexie.js` `Zustand` `Capacitor 8` |
+| 🧠 **[EduBrain-AI](https://github.com/talha4111/EduBrain-AI)** | **Multimodal Vision & ChromaDB Vektör Veritabanı Destekli RAG Eğitim Asistanı**<br/>Çok sayfalı PDF ve el yazısı ders notu görsellerini Gemini 2.0 Flash Vision ile yapılandırılmış Markdown'a dönüştüren, hibrit metin parçalama ve ChromaDB ile kaynak referanslı yanıtlar üreten asistan. | `Python` `LangChain` `ChromaDB` `Gemini 2.0 Vision` `Streamlit` `Poppler` |
+| 📚 **[LingoReader AI (LingoProje)](https://github.com/talha4111/LingoProje)** | **Gerçek Zamanlı SSE Streaming AI Öğretmen & YouTube Whisper Karaoke Platformu**<br/>OpenAI Whisper ve `yt-dlp` ile YouTube videolarından milisaniye hassasiyetinde karaoke transkripti çıkaran, Gemini 2.5 Flash SSE streaming öğretmen ve interaktif PDF/hikaye okuyucu içeren dil platformu. | `Python` `Flask SSE` `OpenAI Whisper` `Gemini 2.5` `JavaScript SPA` `PDF.js` |
+| ⚙️ **[PROLAB1](https://github.com/talha4111/PROLAB1)** | **Konum Değişim Maliyetli Çoklu Teknisyen Görev Zamanlama Simülatörü**<br/>SJF, Priority, Round Robin ve %15.0 daha hızlı tamamlanma süresi (%96.76 verimlilik) sağlayan özgün iş yükü dengeleme algoritması (`gorev_sec_ozgun`) ile deterministik zaman yolculuğu (`zamana_git`) içeren modüler simülatör. | `C (C99)` `GCC` `OS Scheduling` `Heuristic Optimization` `State Machine` |
+| 📊 **[Sales Predictor (prolab2)](https://github.com/talha4111/prolab2)** | **Saf Java ile Sıfırdan KNN ve CART Karar Ağacı (Gini Impurity) Tahmin Platformu**<br/>Harici ML kütüphanesi kullanmadan sıfırdan Öklid mesafeli PriorityQueue KNN ve Gini Impurity Karar Ağacı gerçekleyen, Apache POI ve `SwingWorker` destekli masaüstü analiz uygulaması. | `Java 11+` `Java Swing` `Apache POI` `KNN` `CART Decision Tree` `OOP` |
+| 🗄️ **[JSON-to-SQL Converter (prolab3)](https://github.com/talha4111/prolab3)** | **Şemasız JSON Verilerini 3NF İlişkisel SQLite Veritabanına Dönüştüren Otonom Araç**<br/>Derinlemesine iç içe geçmiş (nested) JSON belgelerini özyineli olarak analiz edip Primary/Foreign Key bağlantılı 3NF SQLite tablolarına normalize eden 9 modüllü masaüstü uygulaması. | `Python` `PyQt5` `SQLite` `3NF Normalization` `Recursive Parser` |
+| 🚄 **[TCDD YHT Ticket Bot](https://github.com/talha4111/yht-ticket-bot)** | **7/24 Otonom Yüksek Hızlı Tren Bilet Tarayıcı & Anlık Telegram Bildirim Sistemi**<br/>Dinamik SPA DOM yapısını Headless Chrome ve Regex ile tarayan, boş koltuk bulunduğunda Telegram bildirimi gönderen ve Paramiko SSH/SFTP ile Linux VPS'e dağıtılan otomasyon motoru. | `Python` `Selenium` `Telegram API` `Paramiko SSH` `Linux VPS` |
+
+---
 
 <div align="center">
-  <i>"Veri yeni petroldür, yapay zeka ise o petrolü işleyen en güçlü rafineri."</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=talha4111&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha4111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
 </div>
