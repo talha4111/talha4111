@@ -13,7 +13,7 @@
   <a href="mailto:talhagurler11@gmail.com">
     <img src="https://img.shields.io/badge/E--Posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/talhagurler" target="_blank">
+  <a href="https://talha4111.github.io/Talha_Gurler_CV_TR.pdf" target="_blank"><img src="https://img.shields.io/badge/CV_İndir_(TR_PDF)-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV TR" /></a> <a href="https://talha4111.github.io/Talha_Gurler_CV_EN.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume_(EN_PDF)-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV EN" /></a> <a href="https://www.linkedin.com/in/talha-g%C3%BCrler-919b4b284" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
